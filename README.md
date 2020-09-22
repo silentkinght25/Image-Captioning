@@ -36,6 +36,6 @@ If the above request form doesn't work you can download the data from here: http
 
 Results:
 
-Model reaches the bleu Score of 55% for unigrams on test set and 56% for training set. You can further improve the score by training the model for longer durations or using a more sophisticated RNN with more layers and using a larger dataset like flicker30 or MSCOCO. 
+Model reaches the bleu Score of 55% for unigrams on test set and 56% for development set. You can further improve the score by training the model for longer durations or using a more sophisticated RNN with more layers and using a larger dataset like flicker30 or MSCOCO. 
 
 I have also shared the final weight of my trained model. Feel free to use it and save yourself from longer traning.
